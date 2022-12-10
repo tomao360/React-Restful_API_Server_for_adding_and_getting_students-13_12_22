@@ -1,0 +1,23 @@
+.student-inputs {
+  width: 50vw;
+  margin: 0 auto;
+}
+
+.add-btn {
+  margin-top: 30px;
+}
+
+.add-btn:hover {
+  background-color: white !important;
+  color: #6c757d !important;
+  font-weight: 700;
+}
+
+input {
+  margin-bottom: 10px !important;
+}
+
+input:focus {
+  box-shadow: none !important;
+  border: 3px solid #6c757da2 !important;
+}

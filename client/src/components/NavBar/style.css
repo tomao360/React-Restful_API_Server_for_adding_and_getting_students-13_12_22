@@ -1,0 +1,15 @@
+.navigation-bar {
+  display: flex !important;
+  flex-direction: column !important;
+  background-color: #47aba9e0 !important;
+  margin-bottom: 40px;
+}
+
+.navigation-bar ul li a {
+  padding-left: 80px !important;
+  color: white !important;
+}
+
+.navigation-bar ul li a:hover {
+  color: #4a4a4a !important;
+}
