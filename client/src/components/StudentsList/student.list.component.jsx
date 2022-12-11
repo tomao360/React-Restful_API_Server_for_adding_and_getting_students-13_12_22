@@ -55,7 +55,9 @@ export const StudentList = (props) => {
             );
           })
         ) : (
-          <RingLoader color="#4eb8b6" />
+          <td colSpan={4}>
+            <RingLoader className="the-spinner" color="#4eb8b6" />
+          </td>
         )}
       </table>
     </div>

@@ -7,3 +7,8 @@
   text-align: center !important;
   vertical-align: middle !important;
 }
+
+.the-spinner {
+  display: inline-block !important;
+  vertical-align: middle !important;
+}

@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
 import { StudentList, Insertstudent, PageNotFound } from "./components";
-import { MainLayout } from "./Layout/main/main.layout";
+import { MainLayout } from "./Layout";
 
 import "./App.css";
 
